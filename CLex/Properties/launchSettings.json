@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CLex": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\dev\\csharp\\CraftingInterpreters\\CLex\\test.lox"
+    }
+  }
+}
